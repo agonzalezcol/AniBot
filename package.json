@@ -1,0 +1,16 @@
+{
+  "name": "NodeBot",
+  "version": "1.0.0",
+  "description": "Primer bot creado por Alejandro Gonzalez Colin",
+  "main": "AniBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "AniBot.js"
+  },
+  "keywords": [],
+  "author": "Alejandro Gonzalez Colin",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
+}
